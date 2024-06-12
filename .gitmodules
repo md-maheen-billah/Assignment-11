@@ -1,0 +1,6 @@
+[submodule "server-side"]
+	path = server-side
+	url = https://github.com/md-maheen-billah/Assignment-11-server-side.git
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/md-maheen-billah/Assignment-11-client-side.git
